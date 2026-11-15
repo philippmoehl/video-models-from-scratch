@@ -4,7 +4,7 @@ Code for my YouTube series on how modern video generation models are trained, ev
 
 | # | Episode | Code | Video |
 |---|---|---|---|
-| 1 | Flow matching, from intuition to code | [01-flow-matching](01-flow-matching) | [watch](VIDEO_LINK) |
+| 1 | Flow matching, from intuition to code | [01-flow-matching](01-flow-matching) | [watch](https://www.youtube.com/watch?v=SV0pGnbsl4g) |
 | 2 | The diffusion transformer for video | coming | |
 | 3 | Evaluating video models | coming | |
 | 4 | Distributed fine-tuning of a video model | coming | |

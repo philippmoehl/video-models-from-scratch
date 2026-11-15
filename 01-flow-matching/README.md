@@ -2,7 +2,7 @@
 
 Flow matching is the training method behind image and video models such as Stable Diffusion 3, FLUX and Wan. This folder trains it on a 2D spiral.
 
-Video: [Flow Matching from intuition to code](VIDEO_LINK)
+Video: [Flow Matching from intuition to code](https://www.youtube.com/watch?v=SV0pGnbsl4g)
 Paper: [Flow Matching for Generative Modeling](https://arxiv.org/abs/2210.02747) (Lipman et al.)
 
 ## The whole method
