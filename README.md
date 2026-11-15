@@ -13,7 +13,3 @@ Code for my YouTube series on how modern video generation models are trained, ev
 ## Running the code
 
 Each folder has its own README with the exact steps. Everything needs Python 3.10 or newer and PyTorch.
-
-## About
-
-I'm Philipp Möhl. I work on generative video and I'm a mathematician by training.
